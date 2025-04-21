@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background: #3c6e71;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+nav a {
+    color: white;
+    margin: 0 1em;
+}
+main {
+    padding: 1em;
+}
+img {
+    max-width: 300px;
+    margin: 1em;
+}
